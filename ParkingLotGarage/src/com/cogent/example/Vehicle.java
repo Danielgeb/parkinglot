@@ -31,4 +31,5 @@ public abstract class Vehicle {
 	
 	public abstract boolean canFitInSpot(ParkingSpot spot);
 	public abstract void print();
+	
 }
